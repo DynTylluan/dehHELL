@@ -16,9 +16,9 @@ Description             : dehHELL is a collection of small DeHackEd files
                           that I made, most of them being made to help
                           benefit the player in some-way.
 
-						  All of the files in this collection should be
-						  able to run in vanilla Doom without any issues
-						  at all.
+                          All of the files in this collection should be
+                          able to run in vanilla Doom without any issues
+                          at all.
 
 ===========================================================================
 * What is included *
