@@ -1,0 +1,10 @@
+Patch File for DeHackEd v3.0
+# Written by Cass "Owly" Python, 2020-11-12
+# Contents are CC BY 4.0
+# https://github.com/DynTylluan/dehhell
+# https://notabug.org/DynTylluan/dehhell
+
+Text 22 11
+Degreelessness Mode OnGod Mode On
+Text 23 12
+Degreelessness Mode OffGod Mode Off
